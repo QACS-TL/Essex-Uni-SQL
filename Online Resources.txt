@@ -1,3 +1,8 @@
+ACCESS TO ELECTRONIC COPIES OF COURSEWARE:
+https://www.mimeo.digital/
+code: GBUPG17XHIJB
+
+
 Online Databases practice sites:
 
 W3Schools is my goto site for learning about programming languages. The site allows you to practice running SQL statements and uses Northwind :-)
