@@ -1,0 +1,10 @@
+Online Databases practice sites:
+
+W3Schools is my goto site for learning about programming languages. The site allows you to practice running SQL statements and uses Northwind :-)
+https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc 
+
+(patients, doctors, admissions):
+https://www.sql-practice.com/ 
+
+tutorial that allows you to write, adapt and run SQL statements:
+https://sqlzoo.net/wiki/SQL_Tutorial 
